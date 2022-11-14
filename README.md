@@ -4,6 +4,9 @@
 
 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/116687152/201769490-679022b9-d6cc-41d3-a793-f71e8240fc78.png)
+
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 MATERIAL Y EQUIPO REQUERIDO
@@ -87,4 +90,21 @@ Voltaje R5: VR5 = I1·R5 = 1.027 mA·1.8kΩ = 1.84 V
 Finalmente, completar la tabla con los resultados obtenidos:
 
 ![image](https://user-images.githubusercontent.com/116687152/201201629-85771e1c-1ce7-4215-829b-d0ca1ba0dd5e.png)
+
+4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+5. VIDEO
+
+6. CONCLUSIONES
+
+7. BIBLIOGRAFÍA
+
+Bustamante M. J. (s.f.) Practica 3: Leyes de Ohm y Kirchhoff. Universidad Tecnologica de Pereira. Recuperado de: https://media.utp.edu.co/ingenieria-fisica/archivos/Practica_3Gen.pdf
+
+Aldair T. (30 junio, 2018) Aplicación de las leyes de Kirchhoff en circuitos eléctricos. Prezi. Recuperado de: https://prezi.com/p/-nvyisxlzluh/aplicacion-de-las-leyes-de-kirchhoff-en-circuitos-electricos/#:~:text=Las%20leyes%20de%20Kirchhoff%20fueron,de%20conservaci%C3%B3n%20de%20la%20energ%C3%ADa.
+
+RUBRICA 
+
+![image](https://user-images.githubusercontent.com/116687152/201770128-aa930635-b00e-45b1-87fa-0bd397c58bb3.png)
+
 
