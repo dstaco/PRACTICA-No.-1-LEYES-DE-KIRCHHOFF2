@@ -93,7 +93,11 @@ Finalmente, completar la tabla con los resultados obtenidos:
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/116687152/201803979-186f2876-03a3-492d-b2de-b040781fd372.png)
+
 5. VIDEO
+
+https://youtu.be/hiGNkd2tXUk
 
 6. CONCLUSIONES
 
